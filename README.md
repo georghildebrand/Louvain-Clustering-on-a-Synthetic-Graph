@@ -11,6 +11,8 @@ It does the following steps:
 - Automatically determines the number of communities.
 - Visualizes the graph with nodes colored by community.
 
+More informaton about graph RAG: https://arxiv.org/pdf/2404.16130
+
 ## 📦 Dependencies
 
 ```bash
